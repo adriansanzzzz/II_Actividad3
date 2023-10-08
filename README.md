@@ -14,17 +14,22 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
    ![p2_a](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/521254eb-da4a-4d28-9130-93f9ad946ad1)
 
 - duplicas la velocidad manteniendo la dirección del movimiento.
+![p3_b](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/4146c1fc-3bf7-4e4a-babb-233ec219f345)
 
-  
+
 - la velocidad que usas es menor que 1
   ![p3_c](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/17ba45f4-7abf-48f2-8a95-495605c12071)
 
 
 - la posición del cubo tiene y>0
-  ![p2_d](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/c218a8e0-8daf-4cdb-8ee9-a8585e8d02fa)
+  ![p3_cv2](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/cc5c00e9-6549-4b7e-8ed8-6240a949743e)
+
 
 - intercambiar movimiento relativo al sistema de referencia local y el mundial
+  ```csharp
+
           cubo.transform.Translate(moveDirection * speed * Time.deltaTime, Space.World);
+  ```
   ![p3_e](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/35721a48-65aa-4195-aaeb-8298032bf037)
 
 
