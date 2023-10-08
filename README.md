@@ -14,7 +14,7 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
    ![p2_a](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/521254eb-da4a-4d28-9130-93f9ad946ad1)
 
 - duplicas la velocidad manteniendo la dirección del movimiento.
-![p3_b](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/4146c1fc-3bf7-4e4a-babb-233ec219f345)
+![p2_5](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9f134a9a-e00c-4d12-beee-e0be0c8cfac0)
 
 
 - la velocidad que usas es menor que 1
