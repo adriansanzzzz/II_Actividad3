@@ -39,7 +39,7 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
 <img width="551" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9fb71c68-0267-4cf8-ad8e-7c2e7706468a">
 <img width="551" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/b0311b53-38d8-41d0-a198-2274278a811f">
 
-![p3_3](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/7fb6cd84-2e67-4895-b823-c89ea1ef2e56)
+![p3_3](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/3307b62f-9ea7-4d86-88e4-b741875da9e5)
 
 ### 4 - Adapta el movimiento en el ejercicio 4 para que sea proporcional al tiempo transcurrido durante la generación del frame.
 
