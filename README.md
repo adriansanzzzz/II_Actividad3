@@ -26,9 +26,9 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
 
 
 - intercambiar movimiento relativo al sistema de referencia local y el mundial
+  Para ello modificamos  el codigo y añadimos Space.World a las propiedades del Transalate
   ```csharp
-
-          cubo.transform.Translate(moveDirection * speed * Time.deltaTime, Space.World);
+  cubo.transform.Translate(moveDirection * speed * Time.deltaTime, Space.World);
   ```
   ![p3_e](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/35721a48-65aa-4195-aaeb-8298032bf037)
 
