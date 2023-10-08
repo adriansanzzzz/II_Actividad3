@@ -14,7 +14,7 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
    ![p2_a](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/521254eb-da4a-4d28-9130-93f9ad946ad1)
 
 - duplicas la velocidad manteniendo la dirección del movimiento.
-![p3_x](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9f69d66b-6338-4ec1-a5a1-7e8ee64068a2)
+   ![p3_x](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9f69d66b-6338-4ec1-a5a1-7e8ee64068a2)
 
 
 - la velocidad que usas es menor que 1
@@ -33,3 +33,10 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
   ![p3_e](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/35721a48-65aa-4195-aaeb-8298032bf037)
 
 
+
+### 3 - Mueve el cubo con las teclas de flecha arriba-abajo, izquierda-derecha a la velocidad speed. Cada uno de estos ejes implican desplazamientos en el eje vertical y horizontal respectivamente. Mueve la esfera con las teclas w-s (movimiento vertical) a-d (movimiento horizontal).
+
+<img width="551" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9fb71c68-0267-4cf8-ad8e-7c2e7706468a">
+<img width="551" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/b0311b53-38d8-41d0-a198-2274278a811f">
+
+![mov](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/53541357-2388-4910-b0fc-a44a8eae24c2)
