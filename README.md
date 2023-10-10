@@ -47,6 +47,11 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
 
 ### 6 - Adapta el movimiento en el ejercicio 5 para que el cubo se mueva hacia la posición de la esfera. Debes considerar, que el avance no debe estar influenciado por cuánto de lejos o cerca estén los dos objetos. 
 
+### 7 - Adapta el movimiento en el ejercicio 6 de forma que el cubo gire hacia la esfera. Realiza pruebas cambiando la posición de la esfera mediante las teclas awsd
+
+### 8 - Utilizar el eje “Horizontal” para girar el objetivo y que avance siempre en la dirección hacia adelante.
+
+
 ### 9 - Configura el cilindro como un objeto físico, cuando el cubo o la esfera colisionen con él se debe mostrar un mensaje en consola con la etiqueta del objeto que haya colisionado. 
 <img width="1267" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/e4765f9d-201c-451b-8a7b-ac42bed00981">
 
