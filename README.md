@@ -51,6 +51,7 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
 
 
 ### 8 - Utilizar el eje “Horizontal” para girar el objetivo y que avance siempre en la dirección hacia adelante.
+![p3_8](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/c6c72f94-cb6f-4d22-8d32-cb87f63b78d1)
 
 
 ### 9 - Configura el cilindro como un objeto físico, cuando el cubo o la esfera colisionen con él se debe mostrar un mensaje en consola con la etiqueta del objeto que haya colisionado. 
