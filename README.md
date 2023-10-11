@@ -76,7 +76,20 @@ Para ser un objeto cinematico, añadimos la componente de rigidbody y marcamos l
 
 ### 12- Agrega un cilindro de un color diferente al que ya hay en la escena y configúralo como un objeto físico. Selecciona un conjunto de teclas que te permitan controlar su movimiento por la escena y prográmale un movimiento que permita dirigirlo hacia la esfera. Prueba diferentes configuraciones de la esfera física con masa 10 veces mayor que el cilindro, física con masa 10 veces menor que el cilindro, cinemática y trigger. También prueba la configuración del cilindro de forma que su fricción se duplique o no. Explica en el informe todos los resultados posibles. 
 
-#### a
-<img width="1267" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/eef9fbe5-c1bc-400e-a341-3ac2530b6265">
-![12](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/802e14a1-2b35-4700-acea-4cea3dd9ded3)
-#### b
+<img width="1255" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/c94ac2f9-3d3d-4c65-a8fe-aebccf2cc2b2">
+
+#### a) Diferentes configuraciones de la esfera física con masa 10 veces mayor que el cilindro
+![p3_121](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/67f302ce-2140-4d11-9d37-45ba9c732a95)
+
+#### b) Física con masa 10 veces menor que el cilindro.
+![p12_2](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/77cff234-d11f-47fd-91a5-5aa150bd57cf)
+
+### c) Cinemática
+![p12_3](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/37d86d5a-9c77-4ee0-9888-b4177a00c4bd)
+
+#### d) Trigger
+![p12_end](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/5db09610-5fc3-40fc-bf8a-bd92ddde5184)
+
+
+
+
