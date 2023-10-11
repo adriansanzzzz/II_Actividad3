@@ -58,11 +58,17 @@ He creado desde el input manager VEsfera, HEsfera y VCubo,HCubo
 Le añadimos la componente de rigidbody
 <img width="1267" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/e4765f9d-201c-451b-8a7b-ac42bed00981">
 
-![colision esfera](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/491204ff-d117-401b-899a-e18efef2de73)
-![colision cubo](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/d8c4db82-881b-4ce1-b0fb-2515b688bb00)
+![colision_esfera](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/ffb062f2-f261-465c-b521-0b08231bcfcc)
+![colision_cubo](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/6fe4dfec-151f-4533-9aaf-bfb7e71dd677)
+
 
 ### 10 - Configura el cubo como un objeto cinemático y la esfera como un objeto físico. Adapta los scripts del ejercicio 9 para obtener el mismo comportamiento.
-<img width="1267" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/a25a94af-ea04-45a6-987d-116923cbea29">
+Es el mismo script.
+Para ser un objeto cinematico, añadimos la componente de rigidbody y marcamos la casilla como Is Kinematic
+<img width="358" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/fe323016-6aaf-414d-a76d-74af27fe7b47">
+
+### 11 - Configura el cilindro como un objeto de tipo Trigger. Adapta los scripts de los ejercicios anteriores para obtener el mismo comportamiento.
+<img width="358" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/72095998-f815-4d43-9d61-a0be63f352d5">
 
 
 ### 12- Agrega un cilindro de un color diferente al que ya hay en la escena y configúralo como un objeto físico. Selecciona un conjunto de teclas que te permitan controlar su movimiento por la escena y prográmale un movimiento que permita dirigirlo hacia la esfera. Prueba diferentes configuraciones de la esfera física con masa 10 veces mayor que el cilindro, física con masa 10 veces menor que el cilindro, cinemática y trigger. También prueba la configuración del cilindro de forma que su fricción se duplique o no. Explica en el informe todos los resultados posibles. 
