@@ -4,6 +4,7 @@
 
 
 ### 1 - Agrega un campo velocidad al cubo de la práctica anterior y asígnale un valor que se pueda cambiar en el inspector de objetos. Muestra la consola el resultado de multiplicar la velocidad por el valor del eje vertical y por el valor del eje horizontal cada vez que se pulsan las teclas flecha arriba-abajo ó flecha izquierda-derecha. El mensaje debe comenzar por el nombre de la flecha pulsada.
+<img width="979" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/f3ff1289-1ec5-48a8-8992-6ee1026c8c30">
 
 ### 2 - Mapea la tecla H a la función disparo. 
 En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla positiva para que cada vez que se pulse se dispare.
