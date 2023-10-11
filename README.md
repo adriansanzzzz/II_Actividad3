@@ -71,6 +71,9 @@ Para ser un objeto cinematico, añadimos la componente de rigidbody y marcamos l
 <img width="358" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/72095998-f815-4d43-9d61-a0be63f352d5">
 
 
+![colisiontrigger](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/24568b80-ba1c-4c08-9ee9-6040810dd3f1)
+
+
 ### 12- Agrega un cilindro de un color diferente al que ya hay en la escena y configúralo como un objeto físico. Selecciona un conjunto de teclas que te permitan controlar su movimiento por la escena y prográmale un movimiento que permita dirigirlo hacia la esfera. Prueba diferentes configuraciones de la esfera física con masa 10 veces mayor que el cilindro, física con masa 10 veces menor que el cilindro, cinemática y trigger. También prueba la configuración del cilindro de forma que su fricción se duplique o no. Explica en el informe todos los resultados posibles. 
 
 #### a
