@@ -16,20 +16,18 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
    ![p3_x](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9f69d66b-6338-4ec1-a5a1-7e8ee64068a2)
 
 
-- la velocidad que usas es menor que 1
+- la velocidad que usas es menor que 1. Va hacia atras.
   ![p3_c](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/17ba45f4-7abf-48f2-8a95-495605c12071)
 
 
-- la posición del cubo tiene y>0
-  ![p3_cv2](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/cc5c00e9-6549-4b7e-8ed8-6240a949743e)
+- la posición del cubo tiene y>0. Sube hacia arriba
 
 
 - intercambiar movimiento relativo al sistema de referencia local y el mundial
-  Para ello modificamos  el codigo y añadimos Space.World a las propiedades del Transalate
+  Para ello modificamos  el codigo y añadimos Space.World a las propiedades del Transalate. No noto diferencia
   ```csharp
-  cubo.transform.Translate(moveDirection * speed * Time.deltaTime, Space.World);
+  transform.Translate(cubeMovement,Space.World);
   ```
-  ![p3_e](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/35721a48-65aa-4195-aaeb-8298032bf037)
 
 
 
