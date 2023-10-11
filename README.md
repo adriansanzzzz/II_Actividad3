@@ -11,7 +11,7 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
 <img width="693" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/5c054152-4fcc-4d4a-8fc9-56a6a7415350">
 
 ### 3 - Crea un script asociado al cubo que en cada iteración traslade al cubo una cantidad proporcional un vector que indica la dirección del movimiento: moveDirection que debe poder modificarse en el inspector.  La velocidad a la que se produce el movimiento también se especifica en el inspector, con la propiedad speed. Inicialmente la velocidad debe ser mayor que 1 y el cubo estar en una posición y=0. En el informe de la práctica comenta los resultados que obtienes en cada una de las siguientes situaciones:
-- duplicas las coordenadas de la dirección del movimiento. No sucece nada ya que hemos normalizado el vector y por lo tanto solo nos interesa la dirección.
+- duplicas las coordenadas de la dirección del movimiento. No hace nada ya que hemos normalizado el vector y por lo tanto solo usa la dirección y no la velocidad.
 
 - duplicas la velocidad manteniendo la dirección del movimiento. Se mueve más deprisa
    ![p3_x](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/9f69d66b-6338-4ec1-a5a1-7e8ee64068a2)
