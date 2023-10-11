@@ -42,9 +42,13 @@ En los ajustes del proyecto, buscamos el Input Manager y aqui cambiamos la tecla
 
 ![p3_4](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/53541357-2388-4910-b0fc-a44a8eae24c2)
 
-### 6 - Adapta el movimiento en el ejercicio 5 para que el cubo se mueva hacia la posición de la esfera. Debes considerar, que el avance no debe estar influenciado por cuánto de lejos o cerca estén los dos objetos. 
+### 6 - Adapta el movimiento en el ejercicio 5 para que el cubo se mueva hacia la posición de la esfera. Debes considerar, que el avance no debe estar influenciado por cuánto de lejos o cerca estén los dos objetos.
+![p3_61](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/1f11a5c5-1a1e-4d8f-9245-aabb07b4a4bb)
+
 
 ### 7 - Adapta el movimiento en el ejercicio 6 de forma que el cubo gire hacia la esfera. Realiza pruebas cambiando la posición de la esfera mediante las teclas awsd
+![p3_72](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/7485bdfe-a22e-4cbc-a216-a6af8ff05f35)
+
 
 ### 8 - Utilizar el eje “Horizontal” para girar el objetivo y que avance siempre en la dirección hacia adelante.
 
