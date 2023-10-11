@@ -55,6 +55,7 @@ He creado desde el input manager VEsfera, HEsfera y VCubo,HCubo
 
 
 ### 9 - Configura el cilindro como un objeto físico, cuando el cubo o la esfera colisionen con él se debe mostrar un mensaje en consola con la etiqueta del objeto que haya colisionado. 
+Le añadimos la componente de rigidbody
 <img width="1267" alt="image" src="https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/e4765f9d-201c-451b-8a7b-ac42bed00981">
 
 ![colision esfera](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/491204ff-d117-401b-899a-e18efef2de73)
