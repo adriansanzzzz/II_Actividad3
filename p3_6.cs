@@ -27,6 +27,7 @@ public class p3_6 : MonoBehaviour
 
         // Calcula la dirección desde el cubo hacia la esfera
         Vector3 directionToSphere = esferaPosition - cuboPosition;
+        directionToSphere.Normalize();
 
         // Mueve el cubo en la dirección normalizada
         cubo.transform.Translate(directionToSphere * speed * Time.deltaTime);
