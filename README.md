@@ -89,7 +89,7 @@ Para ser un objeto cinematico, añadimos la componente de rigidbody y marcamos l
 ![kinematic](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/21be9a85-d244-418b-b1a5-fe998aba2daf)
 
 #### d) Trigger
-![trigger](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/eda82cd0-ccaf-4f55-973a-a7358e388208)
+![tri](https://github.com/adriansanzzzz/II_Actividad3/assets/74414073/cee93700-b0f0-4552-ac9d-7d18ba1c5c18)
 
 
 
