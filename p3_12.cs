@@ -29,7 +29,6 @@ public class p3_12 : MonoBehaviour
         // Mueve el cilindro en la dirección del movimiento
         cilindro.MovePosition(transform.position + mov * Time.deltaTime * speed);
 
-        // Esto parece ser un intento de mover el cilindro hacia la esfera cuando se presiona la tecla "M"
         if (Input.GetKey(KeyCode.M))
         {
             
